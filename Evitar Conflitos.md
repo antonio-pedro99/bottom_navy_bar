@@ -18,3 +18,5 @@ flutter pub get
 ```
 
 Após seguir esses passos, você estará pronto para trabalhar no projeto sem se preocupar com conflitos de dependências.
+
+![Anotação (29)](https://github.com/elisioMassaqui/bottom_navy_bar-robotgames-v/assets/145590545/c355c043-b1a0-4ca1-8c44-ffa89153baa7)
